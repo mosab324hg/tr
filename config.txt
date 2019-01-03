@@ -1,4 +1,4 @@
-token=NDg4NDAwMzk0ODQyODAwMTI5.DnbrKw.V3__flLlkHqtnHohYHEQzFKM5wA
+token=NTMwNDEwODI0Mzc3MDQwOTA3.Dw-_GQ.GG44OOs3cE0KSQIKE4qzuTksuAE
 owner=526981602304065546
 prefix=2
 game=Baktash-bot
